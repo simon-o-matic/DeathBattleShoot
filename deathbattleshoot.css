@@ -63,3 +63,20 @@
 	height: 10px;
 	background-color: green;
 }
+
+#left_score {
+	position: absolute;
+	font-size: 30pt;
+	font-family: monospace;
+	left: 30px;
+	bottom: 500px;	
+}
+
+#right_score {
+	position: absolute;
+	font-size: 30pt;
+	font-family: monospace;
+	right: 30px;
+	bottom: 500px;	
+}
+
