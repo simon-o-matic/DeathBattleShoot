@@ -8,6 +8,7 @@
 	position: absolute;
 	top: 0px;
 	left: 0px;
+	z-index: -1;
 }
 
 #left_dude {
@@ -26,4 +27,39 @@
 	width: 400px;
 	height: 400px;
 	position: absolute;
+}
+
+#left_power_box {
+	position: absolute;
+	margin: 0px;
+	left: 	5%;
+	bottom: 5%;
+	border: 2px solid black;
+	width: 150px;
+	height: 10px;
+	padding: 0px;
+}
+
+#right_power_box {
+	position: absolute;
+	right: 	5%;
+	bottom: 5%;
+	border: 2px solid black;
+	width: 150px;
+	height: 10px;
+	padding: 0px;
+}
+
+#left_power {
+	position: absolute;
+	margin: 0px;
+	height: 10px;
+	background-color: red;
+}
+
+#right_power {
+	position: absolute;
+	right: 0px;
+	height: 10px;
+	background-color: green;
 }
