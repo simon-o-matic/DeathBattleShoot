@@ -73,7 +73,7 @@
 	position: absolute;
 	font-size: 30pt;
 	font-family: monospace;
-	left: 30px;
+	left: 90px;
 	bottom: 500px;	
 }
 
@@ -85,3 +85,17 @@
 	bottom: 500px;	
 }
 
+#credits {
+	position: relative;
+	font-size: 		40pt;
+	font-weight: 	400;
+	top: 			-10px;
+	left: 2%;
+	color: 			black;
+}
+
+#gabe {
+	position: relative;
+	left: 2%;	
+	top: -20px;
+}
