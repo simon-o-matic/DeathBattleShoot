@@ -89,7 +89,7 @@
 	position: relative;
 	font-size: 		40pt;
 	font-weight: 	400;
-	top: 			-10px;
+	top: 			20px;
 	left: 2%;
 	color: 			black;
 }
@@ -97,5 +97,18 @@
 #gabe {
 	position: relative;
 	left: 2%;	
-	top: -20px;
+	top: 15px;
+	font-family: serif;
+	font-weight: 600;
 }
+
+#instructions {
+	position: absolute;
+	width: 40%;
+	left: 30%;	
+	bottom: 31px;
+	font-style: italic;
+	font-family: serif;
+	font-size: 11pt;
+}
+
